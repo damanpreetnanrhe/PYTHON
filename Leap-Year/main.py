@@ -27,7 +27,7 @@ if year%4==0:
      else:
         print("Not Leap Year")
   else:
-    print("Not Leap Year.")
+    print("Leap Year.")
 else:
   print("Not Leap Year.")
     
